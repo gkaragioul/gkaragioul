@@ -5,6 +5,7 @@ I build practical desktop tools, compatibility work, preservation projects, and 
 ## Game preservation & modernization
 
 - [Game Preservation Hub](https://github.com/gkaragioul/game-preservation-hub) — the active home for selected preservation and compatibility projects.
+- [RLabs Scan](https://github.com/gkaragioul/rlabs-scan) — a local, read-only Windows compatibility scanner that turns executable inspection into evidence-led reports.
 
 ## Desktop utilities
 
