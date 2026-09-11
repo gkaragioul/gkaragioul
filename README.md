@@ -5,7 +5,6 @@ I build practical desktop tools, compatibility work, preservation projects, and 
 ## Game preservation & modernization
 
 - [Game Preservation Hub](https://github.com/gkaragioul/game-preservation-hub) — the active home for selected preservation and compatibility projects.
-- [OpenJKDF2 Modern](https://github.com/gkaragioul/OpenJKDF2-Modern) — a modern Windows-focused OpenJKDF2 fork.
 
 ## Desktop utilities
 
