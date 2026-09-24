@@ -25,6 +25,7 @@ The public hub is a record of shareable work. It does not contain commercial gam
 
 | Project | What it does |
 | --- | --- |
+| [SharedPlay Casino Prototype](https://github.com/gkaragioul/SharedPlay-Casino-Prototype) | A social-casino prototype for friends playing together with demo credits only; includes source, screenshots, and a 0.2.1 release. No real-money features. |
 | [Talos Animate](https://github.com/gkaragioul/TalosAnimate) | An open-source Godot tool for building and previewing first-person weapon animation. |
 | [CrossDrive](https://github.com/gkaragioul/Cross_Drive) | Makes Mac-formatted drives usable as local drive letters on Windows. |
 | [My Local Backup](https://github.com/gkaragioul/My_Local_Backup) | Versioned, local-first backups for Windows. |
