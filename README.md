@@ -2,6 +2,8 @@
 
 I work on game preservation and modernization, desktop software, and practical local-first tools. My earlier work spans game audio, technical support, teaching, and operations. This GitHub profile is the main home for my public portfolio.
 
+**CV:** [Open the PDF](GeorgeKaragioulesCV.pdf) · [Read the timeline](PORTFOLIO.md#background)
+
 **Explore:** [Game projects](#game-preservation-and-modernization) · [Software](#software-and-tools) · [Game audio](GAME_AUDIO.md) · [Full portfolio and background](PORTFOLIO.md) · [Contact](#contact)
 
 ## Game preservation and modernization
