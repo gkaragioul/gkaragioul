@@ -33,6 +33,8 @@ The public hub is a record of shareable work. It does not contain commercial gam
 | [Gateway Dashboard](https://github.com/gkaragioul/Gateway_Dashboard) | A browser dashboard for a Windows storage PC on a private network. |
 | [Liidar Image Workflow Studio](https://github.com/gkaragioul/Liidar_Image_Workflow_Studio) | Local image-generation workflows, dataset preparation, and training tools. |
 | [DeltaBot Utility Suite](https://github.com/gkaragioul/deltabot-utility-suite) | Deterministic remote MCP utilities with a public client bridge. |
+| [DeltaBot Trading Lab](https://github.com/gkaragioul/deltabot-trading-lab) | Paper-trading, order-book replay, and fee-aware simulation research; no live trades. |
+| [Career Application Toolkit](https://github.com/gkaragioul/career-application-toolkit) | Evidence-first CV and cover-letter tailoring workflow. |
 
 [Browse the full software and project portfolio →](PORTFOLIO.md)
 
