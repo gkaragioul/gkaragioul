@@ -1,5 +1,7 @@
 # Portfolio
 
+[**Open or download my CV (PDF)**](GeorgeKaragioulesCV.pdf) · LinkedIn export, September 2026
+
 [← George Karagioules](README.md) · [Game audio credits](GAME_AUDIO.md)
 
 This is an index of public project pages and repositories. A repository may contain a working release, source, documentation, or a research record; follow each project page for its actual status and limitations. Private implementation and commercial game data are not part of this portfolio.
