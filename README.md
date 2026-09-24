@@ -39,7 +39,7 @@ Before my software and preservation work, I composed music and designed sound fo
 
 ## Background
 
-My experience combines hands-on development with audio production, technical customer work, teaching, and operations leadership. I studied audio engineering at SAE Athens and jazz at Middlesex University. [See selected work history and education →](PORTFOLIO.md#background)
+My experience combines hands-on development with audio production, technical customer work, teaching, and operations leadership. I studied audio engineering at SAE Athens and jazz at Middlesex University. [See the full CV timeline →](PORTFOLIO.md#background)
 
 ## Contact
 
