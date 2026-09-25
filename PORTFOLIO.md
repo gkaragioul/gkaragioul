@@ -4,21 +4,21 @@
 
 [← George Karagioules](README.md) · [Game audio credits](GAME_AUDIO.md)
 
-This is an index of public project pages and repositories. A repository may contain a working release, source, documentation, or a research record; follow each project page for its actual status and limitations. Private implementation and commercial game data are not part of this portfolio.
+This is an index of projects, with public repositories linked and private work clearly labelled. A repository may contain a working release, source, documentation, or a research record; follow each project page for its actual status and limitations. Private implementation and commercial game data are not part of this portfolio.
 
 ## Game preservation and modernization
 
 | Project | Scope and current public result |
 | --- | --- |
-| [Condemned 2: Bloodshot](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/condemned-2) | Private PC research build played through the full campaign; controls settings remain in progress. Public page only, with no build or game data. |
-| [Spiral Warrior](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/spiral-warrior) | Local service path through the eight-node prologue for a user-owned client; paused before later content. |
-| [World War 3](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/world-war-3) | Offline login, menus, loadouts, and one-client map loading; movement and combat remain outside the result. |
-| [OpenJKDF2 Enhanced](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/openjkdf2-modern) | Modern controls, safer display behavior, and renderer diagnostics for Windows. |
-| [Oni Modern](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/oni-modern) | Reversible compatibility launcher and profiles for user-owned Oni data. |
-| [Heretic II Apple Silicon](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/heretic-ii-apple-silicon) | Native arm64 macOS build, renderer recovery, and app packaging. |
-| [Theme Hospital Apple Silicon](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/theme-hospital-apple-silicon) | Native Apple Silicon and Metal-rendering path for CorsixTH. |
+| Condemned 2: Bloodshot (private research) | Private PC research build played through the full campaign; controls settings remain in progress. No public build or game data. |
+| [Spiral Warrior](https://github.com/gkaragioul/spiral-warrior-offline-preservation) | Local service path through the eight-node prologue for a user-owned client; paused before later content. |
+| World War 3 (private research) | Offline login, menus, loadouts, and one-client map loading; movement and combat remain outside the result. |
+| [OpenJKDF2 Enhanced](https://github.com/gkaragioul/OpenJKDF2-Modern) | Modern controls, safer display behavior, and renderer diagnostics for Windows. |
+| [Oni Modern](https://github.com/gkaragioul/OniModern) | Reversible compatibility launcher and profiles for user-owned Oni data. |
+| [Heretic II Apple Silicon](https://github.com/gkaragioul/Heretic2_Apple_Silicon) | Native arm64 macOS build, renderer recovery, and app packaging. |
+| [Theme Hospital Apple Silicon](https://github.com/gkaragioul/ThemeHospital_Apple_Silicon) | Native Apple Silicon and Metal-rendering path for CorsixTH. |
 
-The [Game Preservation Hub](https://github.com/gkaragioul/game-preservation-hub) is the shared public entry point. Its project pages explain provenance, rights boundaries, evidence, and contribution routes.
+The Game Preservation Hub is temporarily private during a repository safety review. The separate public repositories above remain accessible.
 
 ## Desktop and creator tools
 
@@ -38,8 +38,8 @@ The [Game Preservation Hub](https://github.com/gkaragioul/game-preservation-hub)
 
 | Project | Purpose |
 | --- | --- |
-| [Jarvis AI Assistant](https://github.com/gkaragioul/Jarvis_AI_Assistant) | Local-first voice and computer-control experiments. |
-| [Jarvis PC Control](https://github.com/gkaragioul/Jarvis_PC_Control) | Manage a Windows PC and local services from a Mac menu bar. |
+| Jarvis AI Assistant (private) | Local-first voice and computer-control experiments. |
+| Jarvis PC Control (private) | Manage a Windows PC and local services from a Mac menu bar. |
 | [Liidar Image Workflow Studio](https://github.com/gkaragioul/Liidar_Image_Workflow_Studio) | Local image-generation workflows and dataset preparation. |
 | [DeltaBot Utility Suite](https://github.com/gkaragioul/deltabot-utility-suite) | Hosted MCP tools and a public client bridge. |
 | [Gateway Dashboard](https://github.com/gkaragioul/Gateway_Dashboard) | Browse a Windows storage PC on a private network. |
@@ -47,7 +47,7 @@ The [Game Preservation Hub](https://github.com/gkaragioul/game-preservation-hub)
 | Syntaxis AI | Invoice-extraction experiment; source is not public. |
 | [Cortex Signals](https://github.com/gkaragioul/Cortex_Signals) | Experimental prediction-market signal research. |
 
-Some older standalone repositories are archived. The [preservation hub](https://github.com/gkaragioul/game-preservation-hub) is the active public home for the game work.
+Some older standalone repositories are archived. The Game Preservation Hub is temporarily private; the separate public repositories above are the available game-work links.
 
 ## Background
 
