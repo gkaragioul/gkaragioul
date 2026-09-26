@@ -14,9 +14,9 @@ Independent recovery, porting and compatibility work, collected in the [Game Pre
 | --- | --- |
 | [Condemned 2: Bloodshot](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/condemned-2) | Private PC research build played through the full campaign; the linked page is a research summary. |
 | [World War 3](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/world-war-3) | Offline menus, loadouts and map loading for a user-owned client; the linked page summarises the decoded protocol. |
-| [Spiral Warrior](https://github.com/gkaragioul/spiral-warrior-offline-preservation) | Offline-preservation tooling for a user-owned mobile client, through the full prologue. |
-| [OpenJKDF2 Enhanced](https://github.com/gkaragioul/OpenJKDF2-Modern) | Modern Windows controls, borderless display and renderer diagnostics around an open-source engine. |
-| [Heretic II Apple Silicon](https://github.com/gkaragioul/Heretic2_Apple_Silicon) | Native arm64 macOS build with renderer recovery and app packaging. |
+| [Spiral Warrior](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/spiral-warrior) | Offline-preservation tooling for a user-owned mobile client, through the full prologue. |
+| [OpenJKDF2 Enhanced](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/openjkdf2-modern) | Modern Windows controls, borderless display and renderer diagnostics around an open-source engine. |
+| [Heretic II Apple Silicon](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/heretic-ii-apple-silicon) | Native arm64 macOS build with renderer recovery and app packaging. |
 
 [Browse all game projects →](GAMES.md)
 
