@@ -17,7 +17,7 @@ Games I design and build. The code is private; the [games showcase](https://gith
 | [Travel Agency Simulator](https://store.steampowered.com/app/3169570/Travel_Agency_Simulator/) | Idle-clicker travel-agency management sim with a 3D office minigame. Out now in Early Access on Steam. |
 | [Perfect Closet: Sort, Style & Decorate](https://github.com/gkaragioul/games#perfect-closet-sort-style--decorate) | Cozy sorting puzzle: clear the closet, dress Mia, decorate six rooms. Coming soon to Playgama. |
 | [HULLWALKER](https://github.com/gkaragioul/games#hullwalker) | Retro sci-fi first-person walker-shooter through five dead decks of a warship. Coming soon to Playgama. |
-| [Klepht: 1821](https://github.com/gkaragioul/games#klepht-1821) | Retro first-person game set during the Greek War of Independence. In development. |
+| [Klepht: 1821](https://github.com/gkaragioul/games#klepht-1821) | Retro first-person game set during the Greek War of Independence. Concept stage. |
 | [IRON COMET: The Last Salvager](https://github.com/gkaragioul/games#iron-comet-the-last-salvager) | Retro vertical shoot-'em-up where destroyed enemies become orbiting scrap. In development. |
 
 [See all original games →](https://github.com/gkaragioul/games)
