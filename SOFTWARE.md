@@ -8,6 +8,7 @@ Every project links to its public repository. Each repository's README states wh
 
 | Project | What it does |
 | --- | --- |
+| [FleetLever](https://github.com/gkaragioul/FleetLever) | Fleet and equipment operations console for small operators (Next.js, PostgreSQL). |
 | [Produtime](https://github.com/gkaragioul/Produtime) | Source-available local time tracking and team reporting for Windows. |
 | [SharedPlay Casino Prototype](https://github.com/gkaragioul/SharedPlay-Casino-Prototype) | A social-casino prototype for friends playing together with demo credits only. No real-money features. |
 
