@@ -4,23 +4,23 @@ I work on game preservation and modernization, desktop software, and practical l
 
 **CV:** [Open the PDF](GeorgeKaragioulesCV.pdf) · [Read the timeline](PORTFOLIO.md#background)
 
-**Explore:** [Original games](https://github.com/gkaragioul/games) · [Game projects](GAMES.md) · [Software](SOFTWARE.md) · [Game audio](GAME_AUDIO.md) · [CV and background](PORTFOLIO.md) · [Contact](#contact)
+**Explore:** [Original games](https://github.com/gkaragioul/games-studio-hub) · [Game projects](GAMES.md) · [Software](SOFTWARE.md) · [Game audio](GAME_AUDIO.md) · [CV and background](PORTFOLIO.md) · [Contact](#contact)
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gkaragioul)
 
 ## Original games
 
-Games I design and build. The code is private; the [games showcase](https://github.com/gkaragioul/games) has screenshots and where to play.
+Games I design and build, collected in the [Games Studio Hub](https://github.com/gkaragioul/games-studio-hub). Each game has its own page; the source code is private.
 
-| Game | What it is |
+| Game | Current status |
 | --- | --- |
-| [Travel Agency Simulator](https://store.steampowered.com/app/3169570/Travel_Agency_Simulator/) | Idle-clicker travel-agency management sim with a 3D office minigame. Out now in Early Access on Steam. |
-| [Perfect Closet: Sort, Style & Decorate](https://github.com/gkaragioul/games#perfect-closet-sort-style--decorate) | Cozy sorting puzzle: clear the closet, dress Mia, decorate six rooms. Coming soon to Playgama. |
-| [HULLWALKER](https://github.com/gkaragioul/games#hullwalker) | Retro sci-fi first-person walker-shooter through five dead decks of a warship. Coming soon to Playgama. |
-| [Klepht: 1821](https://github.com/gkaragioul/games#klepht-1821) | Retro first-person game set during the Greek War of Independence. Concept stage. |
-| [IRON COMET: The Last Salvager](https://github.com/gkaragioul/games#iron-comet-the-last-salvager) | Retro vertical shoot-'em-up where destroyed enemies become orbiting scrap. In development. |
+| [Travel Agency Simulator](https://github.com/gkaragioul/games-studio-hub/tree/main/projects/travel-agency-simulator) | Out now in Early Access on Steam: idle-clicker travel-agency management with a 3D office minigame. |
+| [Perfect Closet: Sort, Style & Decorate](https://github.com/gkaragioul/games-studio-hub/tree/main/projects/perfect-closet) | Complete and coming soon to Playgama: cozy sorting puzzle, dress Mia, decorate six rooms. |
+| [HULLWALKER](https://github.com/gkaragioul/games-studio-hub/tree/main/projects/hullwalker) | Feature-complete, in playtesting for Playgama: retro sci-fi first-person walker-shooter. |
+| [IRON COMET: The Last Salvager](https://github.com/gkaragioul/games-studio-hub/tree/main/projects/iron-comet) | Early greybox build: vertical shoot-'em-up for phones where destroyed enemies become orbiting scrap. |
+| [Klepht: 1821](https://github.com/gkaragioul/games-studio-hub/tree/main/projects/klepht-1821) | Concept stage: retro first-person game set during the Greek War of Independence. |
 
-[See all original games →](https://github.com/gkaragioul/games)
+[Browse all original games →](https://github.com/gkaragioul/games-studio-hub)
 
 ## Game preservation and modernization
 

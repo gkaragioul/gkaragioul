@@ -2,7 +2,7 @@
 
 [← George Karagioules](README.md) · [Software](SOFTWARE.md) · [Game audio](GAME_AUDIO.md) · [CV and background](PORTFOLIO.md)
 
-**Looking for my own games?** Travel Agency Simulator (on Steam), Perfect Closet, HULLWALKER, Klepht: 1821 and IRON COMET are in the [original games showcase](https://github.com/gkaragioul/games).
+**Looking for my own games?** Travel Agency Simulator (on Steam), Perfect Closet, HULLWALKER, Klepht: 1821 and IRON COMET each have a page in the [Games Studio Hub](https://github.com/gkaragioul/games-studio-hub).
 
 Independent recovery, porting and compatibility work. The [Game Preservation Hub](https://github.com/gkaragioul/game-preservation-hub) collects these projects in one place. None of them is a download for a commercial game or a private research build: you need your own copy of each game.
 
