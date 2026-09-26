@@ -6,6 +6,8 @@ I work on game preservation and modernization, desktop software, and practical l
 
 **Explore:** [Game projects](GAMES.md) · [Software](SOFTWARE.md) · [Game audio](GAME_AUDIO.md) · [CV and background](PORTFOLIO.md) · [Contact](#contact)
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gkaragioul)
+
 ## Game preservation and modernization
 
 Independent recovery, porting and compatibility work, collected in the [Game Preservation Hub](https://github.com/gkaragioul/game-preservation-hub). None of it is a download for a commercial game.
@@ -43,3 +45,5 @@ My experience combines hands-on development with audio production, technical cus
 ## Contact
 
 For project or collaboration inquiries: [georgekaragioules@gmail.com](mailto:georgekaragioules@gmail.com). You can also open an issue or discussion in the relevant public repository.
+
+If my free tools help you, you can [buy me a coffee](https://buymeacoffee.com/gkaragioul). Tips are voluntary and don't buy support or a warranty.
