@@ -38,6 +38,7 @@ Every project links to its public repository. Each repository's README states wh
 | Project | What it does |
 | --- | --- |
 | [Liidar Image Workflow Studio](https://github.com/gkaragioul/Liidar_Image_Workflow_Studio) | Local image-generation workflows, dataset preparation and training tools. |
+| [Jarvis AI Assistant](https://github.com/gkaragioul/Jarvis_AI_Assistant) | Local-first voice assistant: a Mac app talking to a Windows GPU PC over a VPN. |
 | [Jarvis PC Control](https://github.com/gkaragioul/Jarvis_PC_Control) | Manage a Windows PC and its local AI services from the macOS menu bar. |
 | [Pi Agentic](https://github.com/gkaragioul/pi-agentic) | Live model and usage display and workflow extensions for the Pi coding agent. |
 | [Syntaxis AI](https://github.com/gkaragioul/Syntaxis_AI) | Experimental invoice-extraction prototype: PDF invoices to structured spreadsheets. Not for deployment. |
