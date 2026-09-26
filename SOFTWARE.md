@@ -24,18 +24,22 @@ Every project links to its public repository. Each repository's README states wh
 | [Mac Disk Peek](https://github.com/gkaragioul/Mac_Disk_Peek) | Check mounted-volume space from the macOS menu bar. |
 | [iMovie Format Converter](https://github.com/gkaragioul/IMovie_Format_Converter) | Batch-convert videos into iMovie-ready MOV files. |
 | [Mac Stickies](https://github.com/gkaragioul/Mac_Stickies) | Local macOS menu-bar notes with backup import and export. |
+| [Card Scout](https://github.com/gkaragioul/PokemonAppScanner) | Pokémon card scanner web app with photo lookup and rough grade and price estimates. |
 
 ## Game-development tools
 
 | Project | What it does |
 | --- | --- |
 | [Talos Animate](https://github.com/gkaragioul/TalosAnimate) | Build and preview first-person weapon animations for Godot games. |
+| [Blender Asset Factory](https://github.com/gkaragioul/Blender-Asset-Factory) | Local-first Blender asset pipeline with validation and Three.js previews, shown with the KHEPRI planetary rover. |
 
 ## AI, automation and experiments
 
 | Project | What it does |
 | --- | --- |
 | [Liidar Image Workflow Studio](https://github.com/gkaragioul/Liidar_Image_Workflow_Studio) | Local image-generation workflows, dataset preparation and training tools. |
+| [Jarvis PC Control](https://github.com/gkaragioul/Jarvis_PC_Control) | Manage a Windows PC and its local AI services from the macOS menu bar. |
+| [Pi Agentic](https://github.com/gkaragioul/pi-agentic) | Live model and usage display and workflow extensions for the Pi coding agent. |
 | [DeltaBot Utility Suite](https://github.com/gkaragioul/deltabot-utility-suite) | Stdio MCP bridge for a hosted tool service (the service is currently offline). |
 | [DeltaBot Trading Lab](https://github.com/gkaragioul/deltabot-trading-lab) | Paper trading, order-book replay and fee-aware simulation research. Not financial advice. |
 | [Cortex Signals](https://github.com/gkaragioul/Cortex_Signals) | Experimental prediction-market signal research. |
