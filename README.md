@@ -4,37 +4,33 @@ I work on game preservation and modernization, desktop software, and practical l
 
 **CV:** [Open the PDF](GeorgeKaragioulesCV.pdf) · [Read the timeline](PORTFOLIO.md#background)
 
-**Explore:** [Game projects](#game-preservation-and-modernization) · [Software](#software-and-tools) · [Game audio](GAME_AUDIO.md) · [Full portfolio and background](PORTFOLIO.md) · [Contact](#contact)
+**Explore:** [Game projects](GAMES.md) · [Software](SOFTWARE.md) · [Game audio](GAME_AUDIO.md) · [CV and background](PORTFOLIO.md) · [Contact](#contact)
 
 ## Game preservation and modernization
 
-The [Game Preservation Hub](https://github.com/gkaragioul/game-preservation-hub) collects this work in one place. None of it is a download for a commercial game or a private research build.
+Independent recovery, porting and compatibility work, collected in the [Game Preservation Hub](https://github.com/gkaragioul/game-preservation-hub). None of it is a download for a commercial game.
 
 | Project | Current scope |
 | --- | --- |
-| [Condemned 2: Bloodshot](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/condemned-2) | Private PC research build; the linked page is a research summary with no game files or implementation. |
-| [Spiral Warrior](https://github.com/gkaragioul/spiral-warrior-offline-preservation) | Paused source-only offline-preservation tooling for a user-owned client. |
-| [World War 3](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/world-war-3) | Private offline research; the linked page summarises the decoded protocol, with no client, code or service package. |
-| [OpenJKDF2 Enhanced](https://github.com/gkaragioul/OpenJKDF2-Modern) | Modern Windows controls, borderless display, and renderer diagnostics around an open-source engine. |
-| [Oni Modern](https://github.com/gkaragioul/OniModern) | A reversible Windows compatibility launcher for a user-owned installation. |
-| [Heretic II Apple Silicon](https://github.com/gkaragioul/Heretic2_Apple_Silicon) · [Theme Hospital Apple Silicon](https://github.com/gkaragioul/ThemeHospital_Apple_Silicon) | Native macOS recovery work using open engine paths and user-provided game data. |
+| [Condemned 2: Bloodshot](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/condemned-2) | Private PC research build played through the full campaign; the linked page is a research summary. |
+| [World War 3](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/world-war-3) | Offline menus, loadouts and map loading for a user-owned client; the linked page summarises the decoded protocol. |
+| [Spiral Warrior](https://github.com/gkaragioul/spiral-warrior-offline-preservation) | Offline-preservation tooling for a user-owned mobile client, through the full prologue. |
+| [OpenJKDF2 Enhanced](https://github.com/gkaragioul/OpenJKDF2-Modern) | Modern Windows controls, borderless display and renderer diagnostics around an open-source engine. |
+| [Heretic II Apple Silicon](https://github.com/gkaragioul/Heretic2_Apple_Silicon) | Native arm64 macOS build with renderer recovery and app packaging. |
+
+[Browse all game projects →](GAMES.md)
 
 ## Software and tools
 
 | Project | What it does |
 | --- | --- |
-| [SharedPlay Casino Prototype](https://github.com/gkaragioul/SharedPlay-Casino-Prototype) | A social-casino prototype for friends playing together with demo credits only; includes source, screenshots, and a 0.2.1 release. No real-money features. |
 | [Talos Animate](https://github.com/gkaragioul/TalosAnimate) | An open-source Godot tool for building and previewing first-person weapon animation. |
-| [CrossDrive](https://github.com/gkaragioul/Cross_Drive) | Makes Mac-formatted drives usable as local drive letters on Windows. |
-| [My Local Backup](https://github.com/gkaragioul/My_Local_Backup) | Versioned, local-first backups for Windows. |
-| [RDNA Cast](https://github.com/gkaragioul/RDNA_Cast) | AMD-focused recording and streaming work. |
-| [Gateway Dashboard](https://github.com/gkaragioul/Gateway_Dashboard) | A browser dashboard for a Windows storage PC on a private network. |
-| [Liidar Image Workflow Studio](https://github.com/gkaragioul/Liidar_Image_Workflow_Studio) | Local image-generation workflows, dataset preparation, and training tools. |
-| [DeltaBot Utility Suite](https://github.com/gkaragioul/deltabot-utility-suite) | Deterministic remote MCP utilities with a public client bridge. |
-| [DeltaBot Trading Lab](https://github.com/gkaragioul/deltabot-trading-lab) | Paper-trading, order-book replay, and fee-aware simulation research; no live trades. |
-| [Career Application Toolkit](https://github.com/gkaragioul/career-application-toolkit) | Evidence-first CV and cover-letter tailoring workflow. |
+| [My Local Backup](https://github.com/gkaragioul/My_Local_Backup) | Versioned local backups for Windows with space-saving snapshots. |
+| [RDNA Cast](https://github.com/gkaragioul/RDNA_Cast) | Recording and streaming workflows for AMD Radeon users. |
+| [Liidar Image Workflow Studio](https://github.com/gkaragioul/Liidar_Image_Workflow_Studio) | Local image-generation workflows, dataset preparation and training tools. |
+| [SharedPlay Casino Prototype](https://github.com/gkaragioul/SharedPlay-Casino-Prototype) | A social-casino prototype for friends playing with demo credits only; no real-money features. |
 
-[Browse the full software and project portfolio →](PORTFOLIO.md)
+[Browse all software →](SOFTWARE.md)
 
 ## Game audio
 

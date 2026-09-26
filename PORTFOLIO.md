@@ -2,52 +2,14 @@
 
 [**Open or download my CV (PDF)**](GeorgeKaragioulesCV.pdf) · LinkedIn export, September 2026
 
-[← George Karagioules](README.md) · [Game audio credits](GAME_AUDIO.md)
+[← George Karagioules](README.md) · [Game projects](GAMES.md) · [Software](SOFTWARE.md) · [Game audio credits](GAME_AUDIO.md)
 
-This is an index of projects, with public repositories linked and private work clearly labelled. A repository may contain a working release, source, documentation, or a research record; follow each project page for its actual status and limitations. Private implementation and commercial game data are not part of this portfolio.
+My projects are listed on two pages, each linking to its public repository:
 
-## Game preservation and modernization
+- **[Game preservation and modernization](GAMES.md)**: recovery, porting and compatibility work for classic and discontinued games.
+- **[Software and tools](SOFTWARE.md)**: products, desktop and creator tools, game-development tools, and AI and automation experiments.
 
-| Project | Scope and current public result |
-| --- | --- |
-| [Condemned 2: Bloodshot](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/condemned-2) (private research) | Private PC research build played through the full campaign; controls settings remain in progress. No public build or game data. |
-| [Spiral Warrior](https://github.com/gkaragioul/spiral-warrior-offline-preservation) | Local service path through the eight-node prologue for a user-owned client; paused before later content. |
-| [World War 3](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/world-war-3) (private research) | Offline login, menus, loadouts, and one-client map loading; movement and combat remain outside the result. |
-| [OpenJKDF2 Enhanced](https://github.com/gkaragioul/OpenJKDF2-Modern) | Modern controls, safer display behavior, and renderer diagnostics for Windows. |
-| [Oni Modern](https://github.com/gkaragioul/OniModern) | Reversible compatibility launcher and profiles for user-owned Oni data. |
-| [Heretic II Apple Silicon](https://github.com/gkaragioul/Heretic2_Apple_Silicon) | Native arm64 macOS build, renderer recovery, and app packaging. |
-| [Theme Hospital Apple Silicon](https://github.com/gkaragioul/ThemeHospital_Apple_Silicon) | Native Apple Silicon and Metal-rendering path for CorsixTH. |
-
-The [Game Preservation Hub](https://github.com/gkaragioul/game-preservation-hub) collects these projects in one place; the separate public repositories above remain available too.
-
-## Desktop and creator tools
-
-| Project | Purpose |
-| --- | --- |
-| [Talos Animate](https://github.com/gkaragioul/TalosAnimate) | Build and preview first-person weapon animations for Godot games. |
-| [CrossDrive](https://github.com/gkaragioul/Cross_Drive) | Access Mac-formatted drives as local drive letters on Windows. |
-| [My Local Backup](https://github.com/gkaragioul/My_Local_Backup) | Versioned local backup and recovery for Windows. |
-| [RDNA Cast](https://github.com/gkaragioul/RDNA_Cast) | Recording and streaming workflows for AMD Radeon users. |
-| [Reddit Media Downloader](https://github.com/gkaragioul/Reddit_Media_Downloader) | Download and organize public Reddit images and videos. |
-| [Driftway Media Randomizer](https://github.com/gkaragioul/Driftway_Media_Randomizer) | Shuffle local image and video folders. |
-| [Mac Disk Peek](https://github.com/gkaragioul/Mac_Disk_Peek) | Check mounted-volume space from the macOS menu bar. |
-| [iMovie Format Converter](https://github.com/gkaragioul/IMovie_Format_Converter) | Batch-convert videos into iMovie-ready MOV files. |
-| [Mac Stickies](https://github.com/gkaragioul/Mac_Stickies) | Local macOS menu-bar notes with backup import and export. |
-
-## AI, automation, and experiments
-
-| Project | Purpose |
-| --- | --- |
-| Jarvis AI Assistant (private) | Local-first voice and computer-control experiments. |
-| Jarvis PC Control (private) | Manage a Windows PC and local services from a Mac menu bar. |
-| [Liidar Image Workflow Studio](https://github.com/gkaragioul/Liidar_Image_Workflow_Studio) | Local image-generation workflows and dataset preparation. |
-| [DeltaBot Utility Suite](https://github.com/gkaragioul/deltabot-utility-suite) | Hosted MCP tools and a public client bridge. |
-| [Gateway Dashboard](https://github.com/gkaragioul/Gateway_Dashboard) | Browse a Windows storage PC on a private network. |
-| [Produtime](https://github.com/gkaragioul/Produtime) | Source-available local time tracking and team reporting. |
-| Syntaxis AI | Invoice-extraction experiment; source is not public. |
-| [Cortex Signals](https://github.com/gkaragioul/Cortex_Signals) | Experimental prediction-market signal research. |
-
-Some older standalone repositories are archived. The [Game Preservation Hub](https://github.com/gkaragioul/game-preservation-hub) and the separate public repositories above are the game-work links.
+A repository may contain a working release, source, documentation or a research record; follow each project page for its actual status and limitations. Commercial game data is not part of this portfolio.
 
 ## Background
 
@@ -125,4 +87,4 @@ This CV timeline carries the work and education entries from my former portfolio
 - **Greek Army National Service** · Basic Military Training · 2012.
 - **Middlesex University** · Bachelor of Arts (B.A.) in Jazz / Jazz Studies · 2010–2012.
 
-For project examples, see the [game-audio credits](GAME_AUDIO.md) and repositories above. For inquiries, email [georgekaragioules@gmail.com](mailto:georgekaragioules@gmail.com).
+For project examples, see the [game-audio credits](GAME_AUDIO.md), the [game projects](GAMES.md) and the [software](SOFTWARE.md). For inquiries, email [georgekaragioules@gmail.com](mailto:georgekaragioules@gmail.com).

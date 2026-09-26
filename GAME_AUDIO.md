@@ -1,6 +1,6 @@
 # Game audio
 
-[← George Karagioules](README.md) · [Full portfolio](PORTFOLIO.md)
+[← George Karagioules](README.md) · [Game projects](GAMES.md) · [Software](SOFTWARE.md) · [CV and background](PORTFOLIO.md)
 
 I have worked on game music, sound effects, creature and enemy vocals, and sonic branding. The table records my credited role for each project and links to a public project page or listening example. These links are context for the work; they are not downloads of the games or their audio assets.
 
@@ -20,4 +20,4 @@ I have worked on game music, sound effects, creature and enemy vocals, and sonic
 | S.C.A.R | Music and sound design | [Steam page](https://store.steampowered.com/app/1050720/SCAR/) |
 | Linn Academy 2019 | Sonic branding | [Listen on SoundCloud](https://soundcloud.com/georgeksound/sets/linn-academy-2019-original-music-collection) |
 
-I also taught game audio and its business context at Mainor in Tallinn and delivered game-audio seminars at SAE Athens. For my later software and preservation work, see the [portfolio](PORTFOLIO.md).
+I also taught game audio and its business context at Mainor in Tallinn and delivered game-audio seminars at SAE Athens. For my later work, see the [game projects](GAMES.md) and [software](SOFTWARE.md).
