@@ -8,13 +8,13 @@ I work on game preservation and modernization, desktop software, and practical l
 
 ## Game preservation and modernization
 
-The Game Preservation Hub is temporarily private during a repository safety review. These separate public repositories remain available; none is a download for a commercial game or a private research build.
+The [Game Preservation Hub](https://github.com/gkaragioul/game-preservation-hub) collects this work in one place. None of it is a download for a commercial game or a private research build.
 
 | Project | Current scope |
 | --- | --- |
-| Condemned 2: Bloodshot | Private PC research build; no public game files or implementation download. |
+| [Condemned 2: Bloodshot](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/condemned-2) | Private PC research build; the linked page is a research summary with no game files or implementation. |
 | [Spiral Warrior](https://github.com/gkaragioul/spiral-warrior-offline-preservation) | Paused source-only offline-preservation tooling for a user-owned client. |
-| World War 3 | Private offline research; no public client or service package. |
+| [World War 3](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/world-war-3) | Private offline research; the linked page summarises the decoded protocol, with no client, code or service package. |
 | [OpenJKDF2 Enhanced](https://github.com/gkaragioul/OpenJKDF2-Modern) | Modern Windows controls, borderless display, and renderer diagnostics around an open-source engine. |
 | [Oni Modern](https://github.com/gkaragioul/OniModern) | A reversible Windows compatibility launcher for a user-owned installation. |
 | [Heretic II Apple Silicon](https://github.com/gkaragioul/Heretic2_Apple_Silicon) · [Theme Hospital Apple Silicon](https://github.com/gkaragioul/ThemeHospital_Apple_Silicon) | Native macOS recovery work using open engine paths and user-provided game data. |

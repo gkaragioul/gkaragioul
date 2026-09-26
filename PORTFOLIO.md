@@ -10,15 +10,15 @@ This is an index of projects, with public repositories linked and private work c
 
 | Project | Scope and current public result |
 | --- | --- |
-| Condemned 2: Bloodshot (private research) | Private PC research build played through the full campaign; controls settings remain in progress. No public build or game data. |
+| [Condemned 2: Bloodshot](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/condemned-2) (private research) | Private PC research build played through the full campaign; controls settings remain in progress. No public build or game data. |
 | [Spiral Warrior](https://github.com/gkaragioul/spiral-warrior-offline-preservation) | Local service path through the eight-node prologue for a user-owned client; paused before later content. |
-| World War 3 (private research) | Offline login, menus, loadouts, and one-client map loading; movement and combat remain outside the result. |
+| [World War 3](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/world-war-3) (private research) | Offline login, menus, loadouts, and one-client map loading; movement and combat remain outside the result. |
 | [OpenJKDF2 Enhanced](https://github.com/gkaragioul/OpenJKDF2-Modern) | Modern controls, safer display behavior, and renderer diagnostics for Windows. |
 | [Oni Modern](https://github.com/gkaragioul/OniModern) | Reversible compatibility launcher and profiles for user-owned Oni data. |
 | [Heretic II Apple Silicon](https://github.com/gkaragioul/Heretic2_Apple_Silicon) | Native arm64 macOS build, renderer recovery, and app packaging. |
 | [Theme Hospital Apple Silicon](https://github.com/gkaragioul/ThemeHospital_Apple_Silicon) | Native Apple Silicon and Metal-rendering path for CorsixTH. |
 
-The Game Preservation Hub is temporarily private during a repository safety review. The separate public repositories above remain accessible.
+The [Game Preservation Hub](https://github.com/gkaragioul/game-preservation-hub) collects these projects in one place; the separate public repositories above remain available too.
 
 ## Desktop and creator tools
 
@@ -47,7 +47,7 @@ The Game Preservation Hub is temporarily private during a repository safety revi
 | Syntaxis AI | Invoice-extraction experiment; source is not public. |
 | [Cortex Signals](https://github.com/gkaragioul/Cortex_Signals) | Experimental prediction-market signal research. |
 
-Some older standalone repositories are archived. The Game Preservation Hub is temporarily private; the separate public repositories above are the available game-work links.
+Some older standalone repositories are archived. The [Game Preservation Hub](https://github.com/gkaragioul/game-preservation-hub) and the separate public repositories above are the game-work links.
 
 ## Background
 
