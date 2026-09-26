@@ -40,6 +40,7 @@ Every project links to its public repository. Each repository's README states wh
 | [Liidar Image Workflow Studio](https://github.com/gkaragioul/Liidar_Image_Workflow_Studio) | Local image-generation workflows, dataset preparation and training tools. |
 | [Jarvis PC Control](https://github.com/gkaragioul/Jarvis_PC_Control) | Manage a Windows PC and its local AI services from the macOS menu bar. |
 | [Pi Agentic](https://github.com/gkaragioul/pi-agentic) | Live model and usage display and workflow extensions for the Pi coding agent. |
+| [Syntaxis AI](https://github.com/gkaragioul/Syntaxis_AI) | Experimental invoice-extraction prototype: PDF invoices to structured spreadsheets. Not for deployment. |
 | [DeltaBot Utility Suite](https://github.com/gkaragioul/deltabot-utility-suite) | Stdio MCP bridge for a hosted tool service (the service is currently offline). |
 | [DeltaBot Trading Lab](https://github.com/gkaragioul/deltabot-trading-lab) | Paper trading, order-book replay and fee-aware simulation research. Not financial advice. |
 | [Cortex Signals](https://github.com/gkaragioul/Cortex_Signals) | Experimental prediction-market signal research. |
