@@ -7,7 +7,7 @@ Independent recovery, porting and compatibility work. The [Game Preservation Hub
 | Project | Scope and current public result |
 | --- | --- |
 | [Condemned 2: Bloodshot](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/condemned-2) | Private PC research build played through the full campaign; controls settings remain in progress. The linked page is a research summary with no game files or implementation. |
-| [World War 3](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/world-war-3) | Offline login, menus, loadouts and one-client map loading for a user-owned client. The linked page summarises the decoded protocol; the source is private. |
+| [World War 3](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/world-war-3) | Offline login, menus, loadouts and one-client map loading for a user-owned client. The linked page summarises the decoded protocol; the source is not published. |
 | [Spiral Warrior](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/spiral-warrior) | Local service path through the eight-node prologue for a user-owned client; paused before later content. |
 | [OpenJKDF2 Enhanced](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/openjkdf2-modern) | Modern controls, safer display behaviour and renderer diagnostics for Windows, around an open-source engine. |
 | [Oni Modern](https://github.com/gkaragioul/game-preservation-hub/tree/main/projects/oni-modern) | Reversible compatibility launcher and profiles for a user-owned Oni installation. |
