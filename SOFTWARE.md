@@ -31,7 +31,7 @@ Every project links to its public repository. Each repository's README states wh
 
 | Project | What it does |
 | --- | --- |
-| [Talos Animate](https://github.com/gkaragioul/TalosAnimate) | Build and preview first-person weapon animations for Godot games. |
+| [Talos Animate](TALOS_ANIMATE.md) | Build and preview first-person weapon animations for Godot games. Private tool, shown as portfolio. |
 | [Blender Asset Factory](https://github.com/gkaragioul/Blender-Asset-Factory) | Local-first Blender asset pipeline with validation and Three.js previews, shown with the KHEPRI planetary rover. |
 
 ## AI, automation and experiments
