@@ -40,7 +40,7 @@ Independent recovery, porting and compatibility work, collected in the [Game Pre
 
 | Project | What it does |
 | --- | --- |
-| [Talos Animate](https://github.com/gkaragioul/TalosAnimate) | An open-source Godot tool for building and previewing first-person weapon animation. |
+| [Talos Animate](TALOS_ANIMATE.md) | A Godot studio for building and previewing first-person weapon animation. Private tool, shown as portfolio. |
 | [My Local Backup](https://github.com/gkaragioul/My_Local_Backup) | Versioned local backups for Windows with space-saving snapshots. |
 | [RDNA Cast](https://github.com/gkaragioul/RDNA_Cast) | Recording and streaming workflows for AMD Radeon users. |
 | [Liidar Image Workflow Studio](https://github.com/gkaragioul/Liidar_Image_Workflow_Studio) | Local image-generation workflows, dataset preparation and training tools. |
