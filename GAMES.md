@@ -18,4 +18,4 @@ Independent recovery, porting and compatibility work. The [Game Preservation Hub
 
 Each link opens the project's page in the Game Preservation Hub, where it is maintained; the older standalone repositories are archived. Each project page states its current status and limitations.
 
-Game-development tools such as [Talos Animate](https://github.com/gkaragioul/TalosAnimate) are listed on the [software page](SOFTWARE.md#game-development-tools).
+Game-development tools such as [Talos Animate](TALOS_ANIMATE.md) are listed on the [software page](SOFTWARE.md#game-development-tools).
