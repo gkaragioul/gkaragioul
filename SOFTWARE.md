@@ -2,7 +2,7 @@
 
 [← George Karagioules](README.md) · [Game projects](GAMES.md) · [Game audio](GAME_AUDIO.md) · [CV and background](PORTFOLIO.md)
 
-Every project links to its public repository. Each repository's README states what it does, what it needs and its limitations; everything is provided as is, without warranty.
+Projects link to their public repository or a public portfolio page when the source is private. Each page explains the project's scope and limitations; software is provided as is, without warranty.
 
 ## Products and prototypes
 
@@ -31,8 +31,7 @@ Every project links to its public repository. Each repository's README states wh
 
 | Project | What it does |
 | --- | --- |
-| [Talos Animate](TALOS_ANIMATE.md) | Build and preview first-person weapon animations for Godot games. Private tool, shown as portfolio. |
-| [Blender Asset Factory](https://github.com/gkaragioul/Blender-Asset-Factory) | Local-first Blender asset pipeline with validation and Three.js previews, shown with the KHEPRI planetary rover. |
+| [Talos Suite](TALOS_SUITE.md) | JavaScript-first animation and asset-production suite for Three.js games, bringing Animate and Blender Asset Factory together. Private; integration in development. |
 
 ## AI, automation and experiments
 
