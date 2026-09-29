@@ -4,12 +4,13 @@
 
 Talos Suite brings my animation editor and Blender Asset Factory under one product. This is a portfolio showcase: the combined source and builds are private and are not distributed.
 
-## Two workspaces, one product
+## One app, three tools
 
 - **Animate:** first-person weapon poses, swing editing, keyframe timing, impact feel and Three.js game-runtime integration.
 - **Asset Factory:** Blender asset production, image-to-3D candidate review, validation, optimization and Three.js previews.
+- **Ship:** checks finished models against web game budgets, drops them into a game, and keeps a model library and a phone test.
 
-The target desktop experience is one Talos Suite window with both workspaces. The integration is in active local development; the combined code update has not yet been pushed to GitHub. This page does not announce a completed suite release.
+**Current version: 0.4.0** (29 September 2026). The combined suite now runs as one web app, served by a small local server, with a tab for each tool. It is a private in-house build and still in active development.
 
 ## Technology
 
