@@ -2,14 +2,13 @@ I build apps and games with Claude and Codex. I decide what gets built, guide th
 
 At the moment I'm working on **games on the Mac**: native ports for Apple silicon, and fixes that help Windows games run well on macOS.
 
-### Native ports
-
-**Time Crisis and Time Crisis II for Mac:** native Apple silicon apps of both arcade games, drawn with Metal, at up to 120 pictures per second, in widescreen, with mouse controls.
-
-- ⬇️ **Free download:** [Time Crisis for Mac 1.0](https://github.com/gkaragioul/namco22-decompile/releases/tag/mac-1.0). It runs on Apple silicon Macs with macOS 13 or newer. Bring your own copy of the arcade game: the app asks for it the first time it opens.
-- Offered back to the original decompilation project: [spacestate1/namco22-decompile#99](https://github.com/spacestate1/namco22-decompile/pull/99) *(under review)*
+<a href="https://github.com/gkaragioul/mac-ports"><img src="images/mac-ports-banner.jpg" alt="Mac Ports: classic arcade games, rebuilt to run natively on Apple silicon Macs. See the games and downloads." width="100%"></a>
 
 ### Open-source contributions
+
+**[namco22-decompile](https://github.com/spacestate1/namco22-decompile)**, the arcade code of Namco's Super System 22 games, translated to modern C:
+
+- Native Mac port of Time Crisis and Time Crisis II, drawn with Metal: [#99](https://github.com/spacestate1/namco22-decompile/pull/99) *(under review)*
 
 **[Obelisk](https://github.com/Zagrios/Obelisk)**, a Mac launcher that runs Windows games from Steam, Epic and GOG:
 
