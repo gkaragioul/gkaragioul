@@ -6,4 +6,4 @@
 
 <a href="https://github.com/gkaragioul/open-source/blob/main/bug-reports.md"><img src="images/bug-reports-banner.jpg" alt="Bug reports: problems I found, traced and reported to the developers. See all bug reports." width="100%"></a>
 
-<p align="center"><a href="https://georgekaragioules-ai.vercel.app">Website</a> · <a href="https://www.linkedin.com/in/george-karangioules-1207354b/">LinkedIn</a></p>
+<p align="center"><a href="https://www.linkedin.com/in/george-karangioules-1207354b/">LinkedIn</a></p>
