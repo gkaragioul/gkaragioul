@@ -1,36 +1,9 @@
-I build apps and games with Claude and Codex. I decide what gets built, guide the work, and test every result myself before it goes out. Before this I worked in customer success, operations and game audio. I'm based in Athens, Greece.
-
-At the moment I'm working on **games on the Mac**: native ports for Apple silicon, and fixes that help Windows games run well on macOS.
+<img src="images/header.jpg" alt="George Karangioules. I build apps and games with Claude and Codex. I decide what gets built, guide the work, and test every result myself. Now: games on the Mac. Before: customer success, operations, game audio. Athens, Greece." width="100%">
 
 <a href="https://github.com/gkaragioul/mac-ports"><img src="images/mac-ports-banner.jpg" alt="Mac Ports: classic arcade games, rebuilt to run natively on Apple silicon Macs. See the games and downloads." width="100%"></a>
 
-### Open-source contributions
+<a href="https://github.com/gkaragioul/open-source"><img src="images/open-source-banner.jpg" alt="Open source: fixes and features I've contributed to other people's projects. See all contributions." width="100%"></a>
 
-**[namco22-decompile](https://github.com/spacestate1/namco22-decompile)**, the arcade code of Namco's System 22 and System 23 games, translated to C:
+<a href="https://github.com/gkaragioul/open-source/blob/main/bug-reports.md"><img src="images/bug-reports-banner.jpg" alt="Bug reports: problems I found, traced and reported to the developers. See all bug reports." width="100%"></a>
 
-- Native Mac port of Time Crisis and Time Crisis II, drawn with Metal: [#99](https://github.com/spacestate1/namco22-decompile/pull/99) *(under review)*
-
-**[Obelisk](https://github.com/Zagrios/Obelisk)**, a Mac launcher that runs Windows games from Steam, Epic and GOG:
-
-- ✅ Steam Cloud saves now sync for games whose rules list the "all" platform, such as Quake: [#36](https://github.com/Zagrios/Obelisk/pull/36) *(merged)*
-- ✅ Steam Cloud saves now sync for five games whose rules use different capitalisation: [#43](https://github.com/Zagrios/Obelisk/pull/43) *(merged)*
-- Direct3D 12 games that ship the Agility SDK, such as Killing Floor 3, render on the Linux engine: [#67](https://github.com/Zagrios/Obelisk/pull/67) *(under review)*
-- A Plague Tale: Innocence renders through DXMT: [#70](https://github.com/Zagrios/Obelisk/pull/70) *(under review)*
-
-**[Voile](https://github.com/Zagrios/Voile)**, Obelisk's Linux engine:
-
-- Windows games can play their videos, through GStreamer: [#2](https://github.com/Zagrios/Voile/pull/2) *(under review)*
-
-**[Homebrew](https://github.com/Homebrew/homebrew-cask)**:
-
-- Obelisk becomes installable with `brew install --cask obelisk`: [#299745](https://github.com/Homebrew/homebrew-cask/pull/299745) *(under review)*
-
-### Bug reports
-
-- Killing Floor 3 stops drawing after about a minute on D3DMetal: [Obelisk#68](https://github.com/Zagrios/Obelisk/issues/68)
-- Steam Cloud rules for 12 more games are rejected as unsupported: [Obelisk#42](https://github.com/Zagrios/Obelisk/issues/42)
-- The Easy Anti-Cheat bootstrapper crashes at exit in Direct3D 11: [neptune#4](https://github.com/Zagrios/neptune/issues/4)
-
-### Find me
-
-[Website](https://georgekaragioules-ai.vercel.app) · [LinkedIn](https://www.linkedin.com/in/george-karangioules-1207354b/)
+<p align="center"><a href="https://georgekaragioules-ai.vercel.app">Website</a> · <a href="https://www.linkedin.com/in/george-karangioules-1207354b/">LinkedIn</a></p>
