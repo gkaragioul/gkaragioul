@@ -1,5 +1,3 @@
-## Hi, I'm George 👋
-
 I build apps and games with Claude and Codex. I decide what gets built, guide the work, and test every result myself before it goes out. Before this I worked in customer success, operations and game audio. I'm based in Athens, Greece.
 
 At the moment I'm working on **games on the Mac**: native ports for Apple silicon, and fixes that help Windows games run well on macOS.
