@@ -6,7 +6,7 @@ At the moment I'm working on **games on the Mac**: native ports for Apple silico
 
 ### Open-source contributions
 
-**[namco22-decompile](https://github.com/spacestate1/namco22-decompile)**, the arcade code of Namco's Super System 22 games, translated to modern C:
+**[namco22-decompile](https://github.com/spacestate1/namco22-decompile)**, the arcade code of Namco's System 22 and System 23 games, translated to C:
 
 - Native Mac port of Time Crisis and Time Crisis II, drawn with Metal: [#99](https://github.com/spacestate1/namco22-decompile/pull/99) *(under review)*
 
