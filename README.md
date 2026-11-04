@@ -1,6 +1,8 @@
-<picture><img src="images/header.jpg" alt="George Karangioules. Getting games to run on the Mac, one at a time." width="100%"></picture>
+<picture><img src="images/header.jpg" alt="George Karangioules. Building apps for work, and getting games to run on the Mac." width="100%"></picture>
 
 <a href="https://github.com/gkaragioul/mac-ports"><img src="images/mac-ports-banner.jpg" alt="Mac Ports: games, rebuilt to run natively on Apple silicon Macs. See the games and downloads." width="100%"></a>
+
+<a href="https://github.com/gkaragioul/software"><img src="images/software-banner.jpg" alt="Software: apps and tools I've built for everyday work, on the Mac, on Windows and on the web. See all software." width="100%"></a>
 
 <a href="https://github.com/gkaragioul/open-source"><img src="images/open-source-banner.jpg" alt="Open source: fixes and features I've contributed to other people's projects. See all contributions." width="100%"></a>
 
