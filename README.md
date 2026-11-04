@@ -1,4 +1,4 @@
-<img src="images/header.jpg" alt="George Karangioules. Getting games to run on the Mac, one at a time." width="100%">
+<picture><img src="images/header.jpg" alt="George Karangioules. Getting games to run on the Mac, one at a time." width="100%"></picture>
 
 <a href="https://github.com/gkaragioul/mac-ports"><img src="images/mac-ports-banner.jpg" alt="Mac Ports: games, rebuilt to run natively on Apple silicon Macs. See the games and downloads." width="100%"></a>
 
