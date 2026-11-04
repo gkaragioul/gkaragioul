@@ -1,6 +1,6 @@
 <img src="images/header.jpg" alt="George Karangioules. I build apps and games with Claude and Codex. I decide what gets built, guide the work, and test every result myself. Now: games on the Mac. Before: customer success, operations, game audio. Athens, Greece." width="100%">
 
-<a href="https://github.com/gkaragioul/mac-ports"><img src="images/mac-ports-banner.jpg" alt="Mac Ports: classic arcade games, rebuilt to run natively on Apple silicon Macs. See the games and downloads." width="100%"></a>
+<a href="https://github.com/gkaragioul/mac-ports"><img src="images/mac-ports-banner.jpg" alt="Mac Ports: games, rebuilt to run natively on Apple silicon Macs. See the games and downloads." width="100%"></a>
 
 <a href="https://github.com/gkaragioul/open-source"><img src="images/open-source-banner.jpg" alt="Open source: fixes and features I've contributed to other people's projects. See all contributions." width="100%"></a>
 
